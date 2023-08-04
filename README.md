@@ -4,7 +4,7 @@
 最低限の構成を意識して作成されています。
 
 書籍は下記のものです。
-https://zenn.dev/books/wordpress_fullsite_book/edit
+https://zenn.dev/test_myname/books/wordpress_fullsite_book
 
 # Installation
 
