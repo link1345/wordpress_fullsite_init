@@ -1,0 +1,20 @@
+/*
+Theme Name: my test blocks
+Theme URI: 
+Author: PlumRice
+Author URI: 
+Description: 本「WordPressフルサイト編集入門」の付録のブロックテーマ
+Requires at least: 6.2.2
+Tested up to: 6.2.2
+Requires PHP: 8.0
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: my-test-blocks
+Tags: test , full-site-editing
+*/
+
+
+body {
+	margin: 0;
+}
