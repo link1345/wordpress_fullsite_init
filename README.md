@@ -1,7 +1,10 @@
-# my test blocks
+# WordPress fullsite init theme
 
 このテーマは、書籍「WordPressフルサイト編集」で付録として提供しているテーマです。
 最低限の構成を意識して作成されています。
+
+書籍は下記のものです。
+https://zenn.dev/books/wordpress_fullsite_book/edit
 
 # Installation
 
